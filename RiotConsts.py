@@ -1,4 +1,4 @@
-API_KEY = 'RGAPI-58a69c21-f09a-4894-80b0-d7761c8756b8'
+API_KEY = 'add your key here'
 URL = {
     'base': "https://{region}.api.riotgames.com/lol/{url}",
     'summoner_by_name': "summoner/{version}/summoners/by-name/{summoner_name}",
